@@ -1,0 +1,605 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who wrote and directed the animated movie &quot;Spirited Away&quot; (2001)?",
+      "correct_answer": "Hayao Miyazaki",
+      "incorrect_answers": [
+        "Isao Takahata",
+        "Mamoru Hosoda",
+        "Hidetaka Miyazaki"
+      ]
+    },
+    {
+      "category": "Mythology",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The ancient Roman god of war was commonly known as which of the following?",
+      "correct_answer": "Mars",
+      "incorrect_answers": [
+        "Jupiter",
+        "Juno",
+        "Ares"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which German sportswear company&#039;s logo is the &#039;Formstripe&#039;?",
+      "correct_answer": "Puma",
+      "incorrect_answers": [
+        "Nike",
+        "Adidas",
+        "Reebok"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who recorded the 1975 album &#039;Captain Fantastic and the Brown Dirt Cowboy&#039;?",
+      "correct_answer": "Elton John",
+      "incorrect_answers": [
+        "John Denver",
+        "Billy Joel",
+        "Joe Cocker"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The Principality of Sealand is an unrecognized micronation off the coast of what country?",
+      "correct_answer": "The United Kingdom",
+      "incorrect_answers": [
+        "Japan",
+        "Austrailia",
+        "Argentina"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these stars is the largest?",
+      "correct_answer": "UY Scuti",
+      "incorrect_answers": [
+        "VY Canis Majoris",
+        "Betelgeuse",
+        "RW Cephei"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the scientific name for modern day humans?",
+      "correct_answer": "Homo Sapiens",
+      "incorrect_answers": [
+        "Homo Ergaster",
+        "Homo Erectus",
+        "Homo Neanderthalensis"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The idea of Socialism was articulated and advanced by whom?",
+      "correct_answer": "Karl Marx",
+      "incorrect_answers": [
+        "Vladimir Lenin",
+        "Joseph Stalin",
+        "Vladimir Putin"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many degrees Fahrenheit is 100 degrees Celsius? ",
+      "correct_answer": "212",
+      "incorrect_answers": [
+        "326",
+        "100",
+        "451"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In baseball, how many fouls are an out?",
+      "correct_answer": "0",
+      "incorrect_answers": [
+        "5",
+        "3",
+        "2"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following Assyrian kings did NOT rule during the Neo-Assyrian Empire?",
+      "correct_answer": "Shamshi-Adad III",
+      "incorrect_answers": [
+        "Shalmaneser V",
+        "Esharhaddon",
+        "Ashur-nasir-pal II"
+      ]
+    },
+    {
+      "category": "Politics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which Native American tribe/nation requires at least one half blood quantum (equivalent to one parent) to be eligible for membership?",
+      "correct_answer": "Yomba Shoshone Tribe",
+      "incorrect_answers": [
+        "Standing Rock Sioux Tribe",
+        "Kiowa Tribe of Oklahoma",
+        "Pawnee Nation of Oklahoma"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following former Yugoslavian states is landlocked?",
+      "correct_answer": "Serbia",
+      "incorrect_answers": [
+        "Bosnia and Herzegovina",
+        "Montenegro",
+        "Croatia"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which one of the following rhythm games was made by Harmonix?",
+      "correct_answer": "Rock Band",
+      "incorrect_answers": [
+        "Meat Beat Mania",
+        "Guitar Hero Live",
+        "Dance Dance Revolution"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the first &quot;Star Wars&quot; film by release order?",
+      "correct_answer": "A New Hope",
+      "incorrect_answers": [
+        "The Phantom Menace",
+        "The Force Awakens",
+        "Revenge of the Sith"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "&quot;Tomb Raider&quot; icon Lara Croft was originally called...",
+      "correct_answer": "Laura Cruz",
+      "incorrect_answers": [
+        "Laura Craft",
+        "Laura Croft",
+        "Lara Craft"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What event led to Liechenstein adding a crown to its flag?",
+      "correct_answer": "The 1936 Olympics",
+      "incorrect_answers": [
+        "Coronation of Prince Johann I Joseph in 1805",
+        "Charles VI&#039;s decree in 1719",
+        "Signing of the 1862 Constitution of Liechtenstein"
+      ]
+    },
+    {
+      "category": "Entertainment: Board Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What special item did the creators of Cards Against Humanity ship for their Black Friday pack?",
+      "correct_answer": "Bull Feces",
+      "incorrect_answers": [
+        "A Card Expansion",
+        "A Racist Toy",
+        "Cat Urine"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the Swedish word for &quot;window&quot;?",
+      "correct_answer": "F&ouml;nster",
+      "incorrect_answers": [
+        "H&aring;l",
+        "Sk&auml;rm",
+        "Ruta"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "According to the United States&#039; CDC, one in how many Americans die annually due to smoking?",
+      "correct_answer": "Five",
+      "incorrect_answers": [
+        "Twenty",
+        "Ten",
+        "One hundred"
+      ]
+    },
+    {
+      "category": "Vehicles",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which car is the first mass-produced hybrid vehicle?",
+      "correct_answer": "Toyota Prius",
+      "incorrect_answers": [
+        "Chevrolet Volt",
+        "Honda Fit",
+        "Peugeot 308 R HYbrid"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "On the show &quot;Rick and Morty&quot;, in episode &quot;Total Rickall&quot;, who was a parasite?",
+      "correct_answer": "Pencilvester",
+      "incorrect_answers": [
+        "Beth Smith",
+        "Summer Smith",
+        "Mr. Poopy Butthole"
+      ]
+    },
+    {
+      "category": "Entertainment: Comics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following superheros did Wonder Woman NOT have a love interest in?",
+      "correct_answer": "Green Arrow",
+      "incorrect_answers": [
+        "Superman",
+        "Batman",
+        "Steve Trevor"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In Monster Hunter Generations, which of these hunter arts are exclusive to the Longsword?",
+      "correct_answer": "Unhinged Spirit",
+      "incorrect_answers": [
+        "Shoryugeki",
+        "Provoke",
+        "Demon Riot"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When did Norway get its constitution?",
+      "correct_answer": "1814",
+      "incorrect_answers": [
+        "1932",
+        "1905",
+        "1854"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What team won the 2016 MLS Cup?",
+      "correct_answer": "Seattle Sounders",
+      "incorrect_answers": [
+        "Colorado Rapids",
+        "Toronto FC",
+        "Montreal Impact"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who was the President of the United States during the signing of the Gadsden Purchase?",
+      "correct_answer": "Franklin Pierce",
+      "incorrect_answers": [
+        "Andrew Johnson",
+        "Abraham Lincoln",
+        "James Polk"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "&quot;Gimmick!&quot; is a Japanese Famicom game that uses a sound chip expansion in the cartridge. What is it called?",
+      "correct_answer": "FME-7",
+      "incorrect_answers": [
+        "VRC7",
+        "VRC6",
+        "MMC5"
+      ]
+    },
+    {
+      "category": "Entertainment: Musicals & Theatres",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "&quot;Doctor Who&quot; star David Tennant performed in a rendition of which Shakespearean play?",
+      "correct_answer": "Hamlet",
+      "incorrect_answers": [
+        "The Tempest",
+        "Othello",
+        "The Taming of the Shrew"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How tall is the Burj Khalifa?",
+      "correct_answer": "2,722 ft",
+      "incorrect_answers": [
+        "2,717 ft",
+        "2,546 ft",
+        "3,024 ft"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following card games revolves around numbers and basic math?",
+      "correct_answer": "Uno",
+      "incorrect_answers": [
+        "Go Fish",
+        "Twister",
+        "Munchkin"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who created the indie adventure game &quot;Night in the Woods&quot;?",
+      "correct_answer": "Alec Holowka",
+      "incorrect_answers": [
+        "Ron Gilbert",
+        "Tim Schafer",
+        " Tommy Refenes"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is not a playable race in &quot;Final Fantasy XIV: A Realm Reborn&quot;?",
+      "correct_answer": "Hume",
+      "incorrect_answers": [
+        "Miqo&#039;te",
+        "Lalafell",
+        "Roegadyn"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When was &quot;System Shock&quot; released?",
+      "correct_answer": "1994",
+      "incorrect_answers": [
+        "1995",
+        "2000",
+        "1998"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When was the People&#039;s Republic of China founded?",
+      "correct_answer": "October 1, 1949",
+      "incorrect_answers": [
+        "April 3, 1947",
+        "May 7, 1945",
+        "December 6, 1950"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the largest country in the world?",
+      "correct_answer": "Russia",
+      "incorrect_answers": [
+        "Canada",
+        "China",
+        "United States"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many games are there in the &quot;Colony Wars&quot; series for the PlayStation?",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "2",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "category": "Entertainment: Board Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Some of the &quot;Fallen Empires&quot; cards from &quot;Magic: The Gathering&quot; were misprinted on the backs of which other card game?",
+      "correct_answer": "Wyvern",
+      "incorrect_answers": [
+        "Pokemon",
+        "Dominion",
+        "Yu-Gi-Oh"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "From which country does the piano originate?",
+      "correct_answer": "Italy",
+      "incorrect_answers": [
+        "Germany",
+        "Austria",
+        "France"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In CoD: Black Ops III, what is the name of the rogue A.I. antagonist?",
+      "correct_answer": "Corvus",
+      "incorrect_answers": [
+        "Cabal",
+        "Legion",
+        "Icarus"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which actor from The Young Ones also played Lord Flashheart in one episode of Blackadder II?",
+      "correct_answer": "Rik Mayall",
+      "incorrect_answers": [
+        "Adrian Edmondson",
+        "Nigel Planer",
+        "Christopher Ryan"
+      ]
+    },
+    {
+      "category": "Entertainment: Musicals & Theatres",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which Shakespeare play features the stage direction &quot;Enter a messenger, with two heads and a hand&quot;?",
+      "correct_answer": "Titus Andronicus",
+      "incorrect_answers": [
+        "Othello",
+        "Macbeth",
+        "King Lear"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was the name commonly given to the ancient trade routes that connected the East and West of Eurasia?",
+      "correct_answer": "Silk Road",
+      "incorrect_answers": [
+        "Spice Road",
+        "Clay Road",
+        "Salt Road"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In &quot;PUBATTLEGROUNDS&quot; what is the name of the Military Base island?",
+      "correct_answer": "Sosnovka",
+      "incorrect_answers": [
+        "Novorepnoye",
+        "Mylta",
+        "Yasnaya"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is &ldquo;The Sport of Kings&rdquo;?",
+      "correct_answer": "Horse Racing",
+      "incorrect_answers": [
+        "Chess",
+        "Jousting",
+        "Fencing"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What language does Node.js use?",
+      "correct_answer": "JavaScript",
+      "incorrect_answers": [
+        "Java",
+        "Java Source",
+        "Joomla Source Code"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the Nintendo Game Splatoon 2, what is Marina&#039;s screen name?",
+      "correct_answer": "DJ_Hyperfresh",
+      "incorrect_answers": [
+        "MC.princess",
+        "Kidnotsquid123",
+        "I&lt;30ffTh3H00k"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which European capital city gives its name to a 1981 song by Ultravox?",
+      "correct_answer": "Vienna",
+      "incorrect_answers": [
+        "Berlin",
+        "Paris",
+        "Brussels"
+      ]
+    },
+    {
+      "category": "Science: Mathematics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the complex plane, multiplying a given function by i rotates it anti-clockwise by how many degrees?",
+      "correct_answer": "90",
+      "incorrect_answers": [
+        "180",
+        "270",
+        "0"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who is the founder of Palantir?",
+      "correct_answer": "Peter Thiel",
+      "incorrect_answers": [
+        "Mark Zuckerberg",
+        "Marc Benioff",
+        "Jack Dorsey"
+      ]
+    }
+  ]
+}
